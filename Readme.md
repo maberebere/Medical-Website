@@ -14,7 +14,6 @@ Our platform revolutionizes healthcare by offering **online medical consultation
 <p>
 
 
-## 🔗 Important Links 🔗
 
 <table border="1">
   <tr>
